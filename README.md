@@ -21,7 +21,7 @@
 ### Project
 **Project:** Linear Regression on Mobile Phone Data
 
-**Objective:**Perform a linear regression analysis to predict the price of Samsung Galaxy devices based
+**Objective:** Perform a linear regression analysis to predict the price of Samsung Galaxy devices based
 on various features like 'Rating', 'Spec_score', 'Ram', and 'Battery'.
 ## Technologies
 - Python
